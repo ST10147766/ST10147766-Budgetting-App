@@ -51,10 +51,13 @@ https://github.com/ST10147766/ST10147766-Budgetting-App
 Nonhlanhla Masinga - ST10048689
 https://github.com/ST10048689/ST10048689-Budgeting-App
 
+Precious Pheeha - ST10388513
+https://github.com/Pheeha07/ST10388513_BudgetingApp.git
+
 Mokgadi Kefilwe Moitsi - ST10364979
 https://github.com/ST10364979/st10364979-enjoybudget-app.git
 
-Precious Pheeha - ST10388513
+
 
 
 
